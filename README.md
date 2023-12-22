@@ -10,6 +10,7 @@
 ![0a83e8dc-1c31-4942-9055-036c085a00e1](https://github.com/Singularity19/project/assets/154615066/89239393-b877-4c02-80b7-cbaa5750eced)
 
 Описание работы кода:
+
 1.Класс EarthquakeData:
 
 Класс "EarthquakeData" представляет данные о землетрясениях. Он содержит поля для идентификатора ("id"), глубины ("depth"), типа магнитуды ("magnitudeType"), магнитуды ("magnitude"), названия штата ("state") и времени ("time") землетрясения.
