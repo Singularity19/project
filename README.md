@@ -1,6 +1,8 @@
 Задание 1.
 Постройте график по среднему количеству землетрясений для каждого года.
 
+<img width="361" alt="251630a5-de4e-40df-add1-e160a8dd0582" src="https://github.com/Singularity19/project/assets/154615066/febbb2a7-4919-4f95-adeb-c38bd9c30be6">
+
 Задание 2,3.
 Выведите в консоль среднюю магнитуду для штата "West Virginia".
 
